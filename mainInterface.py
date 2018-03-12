@@ -4,6 +4,8 @@ from tkinter import *
 import os
 
 # All colors will be replaced with a variable once the theme config settings are done
+# i am thinking of having the clock interface code in another file, 
+# and using this to show the butons and status bar at all times instead
 
 root = Tk()
 root.geometry("320x240")
