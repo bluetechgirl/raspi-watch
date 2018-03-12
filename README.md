@@ -1,5 +1,5 @@
 # raspi-watch
-a simple interface for a raspberry pi zero based smart watch built with python 3 and tkinter. it is built with the raspberry pi zero wh and the adafruit pitft - 2.8" touchscreen display in mind. 
+a simple interface for a raspberry pi zero based smart watch built with python 3 and tkinter. it is built with the raspberry pi zero wh and the adafruit pitft - 2.8" touchscreen display in mind. Keep in mind that this is in very early stages of development and is not complete and will contain quite a few bugs. If you are interested in helping you can submit a pull request with proposed changes, add an issue explaining what problems there are, or contact me at @bluetechgirl on twitter. 
 
 ## planned features
 - notifications with smart phone (will need a seperate app and is planned for later)
